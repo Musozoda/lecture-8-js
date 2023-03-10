@@ -89,7 +89,8 @@ ___
 
 - В файле можно экспортировать только один экспорт по умолчанию.
 
-
+___
+___
  # ***Import***
  
  - You can import modules into a file in two ways, based on if they are named exports or default exports.
